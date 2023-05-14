@@ -40,7 +40,7 @@ header a{
 }
 
 header a:hover{
- color: yellow;
+ color: #f4B41A;
 } 
 
 #caption{
@@ -57,7 +57,7 @@ header .logo-gold{
 
 /* Hero section*/
 #Hero{
-    min-height: 500px;
+    min-height: 600px;
     background-image: url(bg-img.png);
     background-repeat: no-repeat;
     background-position: center;
