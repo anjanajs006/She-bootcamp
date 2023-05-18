@@ -18,15 +18,14 @@ if(y=="")
 }
 
 
-if(e=="")
+if(z=="")
 {
     document.getElementById("message-validation").style.display="block"
     
 }
 
-if((x || y || z)=="")
-
-
-return false;
+if((x || y||z)==""){
+    return false;
+}
 }
 
