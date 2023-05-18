@@ -258,6 +258,14 @@ footer{
 }
 /* End of footer section*/
 
+#name-validation,#email-validation,#message-validation{
+    color: red;
+    font-size: 14px;
+    display: none;
+}
+
+
+
 
 
 
